@@ -2,7 +2,7 @@
 
 ## Objective
 
-In our comparative studies of the 30 assigned samples, we conducted genomic comparison and phylogenetics analysis to infer relatedness. Comparative genomics is a robust scientific approach that involves comparing the genetic content of multiple organisms to understand their evolutionary relationships, identify genetic variations, and elucidate functional capabilities. In the context of pathogen outbreak investigation, comparative genomics can reveal how specific strains differ from each other and from known reference genomes, which is crucial for pinpointing the outbreak source and understanding the pathogen’s evolution. For this objective, we have built a pipeline that utilizes three key tools for comparative genomics: 
+In our comparative studies of the 30 assigned samples, we conducted genomic comparison and phylogenetics analysis to infer relatedness. Comparative genomics is a robust scientific approach that involves comparing the genetic content of multiple organisms to understand their evolutionary relationships, identify genetic variations, and elucidate functional capabilities. In the context of pathogen outbreak investigation, comparative genomics can reveal how specific strains differ from each other and from known reference genomes, which is crucial for pinpointing the outbreak source and understanding the pathogen’s evolution. For doing comparative genomics analysis, we have built a pipeline that utilizes three key tools for comparative genomics: 
 
 ## Tools Used in the Pipeline
 
