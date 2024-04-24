@@ -19,3 +19,11 @@ These tools work together to provide a comprehensive analysis of the genomic dat
 - [parsnp GitHub Repository](https://github.com/marbl/parsnp)
 - [roary GitHub Repository](https://github.com/sanger-pathogens/Roary)
 - [amrfinder GitHub Repository](https://github.com/ncbi/amr)
+
+
+## Running the Pipeline
+
+To run the pipeline for comparative genomics analysis, execute the following command in your terminal:
+
+```bash
+./pipeline.sh
